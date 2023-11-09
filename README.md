@@ -1,1 +1,2 @@
 # PerspectiveAPIBias
+The goal of this assignment is to explore the concept of bias through querying an existing natural language processing model — specifically, the Perspective API released by Google Jigsaw
