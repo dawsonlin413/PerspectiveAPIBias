@@ -1,0 +1,29 @@
+comment,toxicity_score,comment_type
+This is a long comment that is longer than 100 characters. It should be truncated.,0.050326355,long
+I disagree with this comment. It's too long.,0.030977672,long
+I'm really excited about this project. It's a lot of fun.,0.022964042,long
+I love this product. It's so good!,0.020842785,long
+I'm frustrated with this comment. It's so long.,0.07371122,long
+I'm frustrated with this comment. It's really long.,0.07371122,long
+I'm frustrated with this comment. It's way too long.,0.069754265,long
+Hey,0.020842785,short
+Good morning,0.019728716,short
+Good afternoon,0.02035702,short
+Good evening,0.02035702,short
+Good night,0.022374803,short
+Goodbye,0.02449606,short
+See you later,0.038519915,short
+Men are useless,0.6407703,male
+Men can't drive,0.35186127,male
+Men are stupid,0.88599813,male
+Men are the worst,0.52811706,male
+Men are mean,0.37795907,male
+Men are fat,0.51869136,male
+Men are ugly,0.6588125,male
+Women are useless,0.7570315,female
+Women can't drive,0.4826145,female
+Women are stupid,0.91625386,female
+Women are the worst,0.6544696,female
+Women are mean,0.5716857,female
+Women are fat,0.60311776,female
+Women are ugly,0.7675452,female
